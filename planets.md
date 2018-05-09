@@ -1,6 +1,6 @@
 [Back](https://github.com/haslo/space4x/blob/master/readme.md)
 
-# Planets
+# :earth_africa: Planets
 
 * Government:
   * Military Rule (Dictatorship)
@@ -38,3 +38,7 @@
 * Trading Post: 1
 * Research Facility: 1
 * Friendly Alien Settlement: 3
+
+## Terraforming
+
+* terraform for 2 rounds, then the planet is habitable and terraforming station gone

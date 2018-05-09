@@ -1,6 +1,8 @@
 [Back](https://github.com/haslo/space4x/blob/master/readme.md)
 
-# Customizable Types
+# :rocket: Ship Customizations
+
+## Customizable Types
 
 * Flagship
 
@@ -40,9 +42,8 @@
 * Ground Bases
 
   ```
-  ┌─┬─┐
-  ├─┼─┤
-  └─┴─┘
+  ┌─┐
+  └─┘
   ```
 
 * Orbital Stations
@@ -55,7 +56,7 @@
   ```
 
 
-# Ship Customizations
+## Customizations
 
 * Drives
   * Level 1-4

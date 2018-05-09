@@ -2,3 +2,6 @@
 * :rocket: [Ship Customizations](https://github.com/haslo/space4x/blob/master/ship_customizations.md)
 * :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md)
 * :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md)
+* :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md)
+* :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
+* :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md)
