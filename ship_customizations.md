@@ -5,10 +5,10 @@
 * Flagship
 
   ```
-    ┌─┐
-    ├─┤
-  ┌─┼─┼─┐
-  └─┴─┴─┘
+    ┌─┬─┐
+    ├─┼─┤
+  ┌─┼─┼─┼─┐
+  └─┴─┴─┴─┘
   ```
 
 * Scouts
@@ -20,9 +20,40 @@
   ```
 
 * Cruisers
+
+  ```
+    ┌─┐
+    ├─┤
+  ┌─┼─┼─┐
+  └─┴─┴─┘
+  ```
+
 * Dreadnoughts
+
+  ```
+      ┌─┬─┐
+  ┌─┐ ├─┼─┤ ┌─┐
+  ├─┼─┼─┼─┼─┼─┤
+  └─┴─┴─┴─┴─┴─┘
+  ```
+
 * Ground Bases
+
+  ```
+  ┌─┬─┐
+  ├─┼─┤
+  └─┴─┘
+  ```
+
 * Orbital Stations
+
+  ```
+    ┌─┐
+  ┌─┼─┼─┐
+  └─┼─┼─┘
+    └─┘
+  ```
+
 
 # Ship Customizations
 
@@ -37,3 +68,5 @@
   * Level 1-4
 * Systems
   * Tactical Computer 1-3
+  * Tractor Beam
+  * Boarding Pod
