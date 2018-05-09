@@ -28,7 +28,7 @@
 
 * Established when population minimum reached and influence minimum reached
 * Can only be of a type that has influence majority (free choice for ties)
-* Can be overthrown by higher influence (but that will somehow throw back the planet)
+* Can be overthrown by at least 2 higher influence (planet will not produce for 1 round)
 
 ## Population
 
