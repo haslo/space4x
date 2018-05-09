@@ -1,4 +1,6 @@
-### Influence Spheres
+[Back](https://github.com/haslo/space4x/blob/master/readme.md)
+
+# Influence Spheres
 
 Bold = providing influence for government (amount)
 
@@ -29,7 +31,7 @@ Bold = providing influence for government (amount)
   * Hostile Alien Bases
   * Hostile Alien Spaceships
 
-### Planets
+# Planets
 
 * Government:
   * Military Rule (Dictatorship)
@@ -53,13 +55,13 @@ Bold = providing influence for government (amount)
   * Influence
   * Resources
 
-#### Government
+## Government
 
 * Established when population minimum reached and influence minimum reached
 * Can only be of a type that has influence majority (free choice for ties)
 * Can be overthrown by higher influence (but that will somehow throw back the planet)
 
-#### Population
+## Population
 
 * Ground Base: 1
 * Colony Outpost: 3
@@ -67,17 +69,3 @@ Bold = providing influence for government (amount)
 * Trading Post: 1
 * Research Facility: 1
 * Friendly Alien Settlement: 3
-
-### Ship Customizations
-
-* Drives
-  * Level 1-3
-  * Hyperspace
-* Weapon Systems
-  * Laser 1-3
-  * Phaser 1-3
-  * Photon Torpedoes 1-3
-* Shielding Systems
-  * Level 1-4
-* Systems
-  * Tactical Computer 1-3
