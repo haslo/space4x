@@ -1,9 +1,24 @@
 [Back](https://github.com/haslo/space4x/blob/master/readme.md)
 
-# Ship Types
+# Customizable Types
 
 * Flagship
+
+  ```
+    ┌─┐
+    ├─┤
+  ┌─┼─┼─┐
+  └─┴─┴─┘
+  ```
+
 * Scouts
+
+  ```
+  ┌─┐
+  ├─┤
+  └─┘
+  ```
+
 * Cruisers
 * Dreadnoughts
 * Ground Bases

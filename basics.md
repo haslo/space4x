@@ -2,29 +2,27 @@
 
 # Influence Spheres
 
-Bold = providing influence for government (amount)
-
 * Military:
   * Flagship
   * Scouts
   * Cruisers
   * Dreadnoughts
-  * **Ground Bases** (2)
-  * **Orbital Stations** (1)
+  * **Ground Bases** (2 influence towards government)
+  * **Orbital Stations** (1 influence towards government)
 * Diplomacy:
   * Embassies
   * Secret Agents
   * Counter Espionage Agents
-  * **Cultural Sites** (1)
-  * **Government Buildings** (2)
+  * **Cultural Sites** (1 influence towards government)
+  * **Government Buildings** (2 influence towards government)
 * Economics:
-  * **Factories** (2)
-  * **Trading Posts** (1)
+  * **Factories** (2 influence towards government)
+  * **Trading Posts** (1 influence towards government)
   * Wormhole Gates
   * Colony Outposts
 * Science
-  * **Research Facilities** (2)
-  * **Research Space Stations** (1)
+  * **Research Facilities** (2 influence towards government)
+  * **Research Space Stations** (1 influence towards government)
   * Terraforming Stations
 * Alien
   * Friendly Alien Settlements
@@ -61,7 +59,7 @@ Bold = providing influence for government (amount)
 * Can only be of a type that has influence majority (free choice for ties)
 * Can be overthrown by higher influence (but that will somehow throw back the planet)
 
-## Population
+## Population
 
 * Ground Base: 1
 * Colony Outpost: 3
