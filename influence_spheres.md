@@ -9,35 +9,41 @@
 
 ## Possible Constructions
 
+### References
+
+* see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) for tech requirements
+* see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) for ... movement
+
 ### Military
 
 | Name | Tech req. | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|
-| Flagship | - | per layout, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | get one for free at start of game, only one per player |
-| Scout | - | per layout, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | - |
-| Cruiser | military 2, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | per layout, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | - |
-| Dreadnought | military 3, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | per layout, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | - |
-| Ground Base | - | - | 3 | - | - |
-| Orbital Station | military 2, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | - | 1 | - | - |
+| Flagship | Military 1 | per layout | - | - | get one for free at start of game, only one per player |
+| Scout | Military 1 | per layout | - | - | - |
+| Cruiser | Military 2 | per layout | - | - | - |
+| Dreadnought | Military 3 | per layout | - | - | - |
+| Ground Base | Military 1 | - | 3 | - | - |
+| Orbital Station | Military 2 | - | 1 | - | - |
 
 ### Diplomacy
 
 | Name | Tech req. | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|
 | Embassy | - | - | 1 | - | only one per player and planet not under player's control |
-| Secret Agent | spies, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | special, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | can only build in embassy and government building |
-| Counter Espionage Agent | spies, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | special, see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) | - | - | can only build in embassy and government building |
-| Cultural Site | - | - | 1 | - | - |
-| Government Building | - | - | 2 | - | only one per planet |
+| Secret Agent | Spies | special | - | - | can only build in embassy and government building |
+| Counter Espionage Agent | Spies | special | - | - | can only build in embassy and government building |
+| Cultural Site | Culture | - | 1 | - | - |
+| Government Building | Culture | - | 2 | - | only one per planet |
 
 ### Economics
 
 | Name | Tech req. | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|
 | Factory | - | - | 2 | - | see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md) |
-| Trading Post | - | - | 1 | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
-| Wormhole Gates | wormholes, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | - | - | - | matching gates (A, B, C) enable movement as if adjacent |
-| Colony Outposts | - | - | -  | 1 | - |
+| Trade Ship | Trade | per layout | - | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
+| Trading Post | Trade | - | 1 | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
+| Wormhole Gate | Wormholes | - | - | - | matching gates (A, B, C) enable movement as if adjacent |
+| Colony Outpost | - | - | -  | 1 | - |
 
 ### Science
 
@@ -45,7 +51,7 @@
 |---|---|---|---|---|---|
 | Research Facility | - | - | 2 | 3 | - |
 | Research Space Station | - | - | 1 | 3 | - |
-| Terraforming Station | terraforming, see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) | - | - | - | terraforming, see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md) |
+| Terraforming Station | Terraforming | - | - | - | terraforming, see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md) |
 
 ## Aliens
 

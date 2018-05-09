@@ -4,6 +4,14 @@
 
 ## Customizable Types
 
+* Trade Ship
+
+  ```
+  ┌─┬─┬─┐
+  ├─┼─┼─┤
+  └─┴─┴─┘
+  ```
+
 * Flagship
 
   ```
@@ -58,6 +66,20 @@
 
 ## Customizations
 
+* Cargo Hold
+
+  ```
+  ┌─┐
+  └─┘
+  ```
+
+* Smuggling Hold
+
+  ```
+  ┌─┐
+  └─┘
+  ```
+
 * Drives
   * Level 1-4
 
@@ -74,23 +96,29 @@
     ```
 
 * Weapon Systems
-
-  ```
-          ┌─┐
-      ┌─┐ ├─┤ ┌─┐
-  ┌─┐ ├─┤ ├─┤ ├─┤
-  └─┘ └─┘ └─┘ └─┘
-  ```
-
-  * Laser 1-3
-  * Phaser 1-3
-  * Photon Torpedoes 1-3
-* Shield Generators
-  * Level 1-4
+  * Phaser 1-4
 
     ```
-    ┌─┐ ┌─┬─┐ ┌─┬─┬─┐ ┌─┬─┐
-    └─┘ └─┴─┘ └─┴─┴─┘ └─┴─┘
+            ┌─┐
+        ┌─┐ ├─┤ ┌─┐
+    ┌─┐ ├─┤ ├─┤ ├─┤
+    └─┘ └─┘ └─┘ └─┘
+    ```
+
+  * Photon Torpedoes 1-3
+
+    ```
+        ┌─┐
+    ┌─┐ ├─┤ ┌─┐
+    └─┘ └─┘ └─┘
+    ```
+
+* Shield Generators
+  * Level 1-3
+
+    ```
+    ┌─┬─┐ ┌─┬─┬─┐ ┌─┬─┐
+    └─┴─┘ └─┴─┴─┘ └─┴─┘
     ```
 
 * Systems
@@ -104,7 +132,6 @@
     * Tactical Computer 1-2
     * Tractor Beam
     * Long-Range Sensors
-    * Auxiliary Power Generators
   * Major Systems
 
       ```
@@ -113,6 +140,5 @@
       ```
 
     * Tactical Computer 3
-    * Boarding Pods
     * Shield Projectors
     * Carpet Bombs
