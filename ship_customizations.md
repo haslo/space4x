@@ -102,6 +102,8 @@
 
     * Tactical Computer 1-2
     * Tractor Beam
+    * Long-Range Sensors
+    * Auxiliary Power Generators
   * Major Systems
 
       ```
@@ -110,4 +112,6 @@
       ```
 
     * Tactical Computer 3
-    * Boarding Pod
+    * Boarding Pods
+    * Shield Projectors
+    * Carpet Bombs
