@@ -58,15 +58,56 @@
 # Ship Customizations
 
 * Drives
-  * Level 1-3
+  * Level 1-4
+
+    ```
+    ┌─┐ ┌─┬─┐ ┌─┬─┬─┐ ┌─┬─┐
+    └─┘ └─┴─┘ └─┴─┴─┘ └─┴─┘
+    ```
+
   * Hyperspace
+
+    ```
+    ┌─┐
+    └─┘
+    ```
+
 * Weapon Systems
+
+  ```
+          ┌─┐
+      ┌─┐ ├─┤ ┌─┐
+  ┌─┐ ├─┤ ├─┤ ├─┤
+  └─┘ └─┘ └─┘ └─┘
+  ```
+
   * Laser 1-3
   * Phaser 1-3
   * Photon Torpedoes 1-3
-* Shielding Systems
+* Shield Generators
   * Level 1-4
+
+    ```
+    ┌─┐ ┌─┬─┐ ┌─┬─┬─┐ ┌─┬─┐
+    └─┘ └─┴─┘ └─┴─┴─┘ └─┴─┘
+    ```
+
 * Systems
-  * Tactical Computer 1-3
-  * Tractor Beam
-  * Boarding Pod
+  * Minor Systems
+
+      ```
+      ┌─┐
+      └─┘
+      ```
+
+    * Tactical Computer 1-2
+    * Tractor Beam
+  * Major Systems
+
+      ```
+      ┌─┬─┐
+      └─┴─┘
+      ```
+
+    * Tactical Computer 3
+    * Boarding Pod
