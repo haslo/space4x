@@ -9,24 +9,30 @@
 | Long-Range Sensors | ? | - | - | Long-Range Sensors | - |
 | Trade | ? | - | - | Trading Ship, Trading Post, Drive 1, Cargo Hold | - |
 | Improved Cargo Holds | ? | Trade | - | Smuggling Hold | Cargo holds double capacity |
-| Advanced Propulsion 1 | ? | Drive 1 | Drive 2 | - |
-| Advanced Propulsion 2 | ? | Drive 2 | Drive 3 | - |
+| Advanced Propulsion 1 | ? | Trade or Military 1 | Drive 2 | - |
+| Advanced Propulsion 2 | ? | Advanced Propulsion 1 | Drive 3 | - |
 | Terraforming | ? | - | Terraforming Station | - | - |
 | Wormholes | ? | - | Wormhole Gate | - | - |
-| Culture | ? | - | Cultural Site, Government Building | - | - |
+| Culture 1 | ? | - | Cultural Site, Government Building | - | - |
+| Culture 2 | ? | Culture 1 | Broadcast Network | - | - |
 
-**TODO Culture needs more tech**
+## Construction Tech Tree
 
-## Production Tech Tree
+also see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
 
-**TODO Production Systems**
+| Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
+|---|---|---|---|---|---|
+| Construction 1 | ? | - | Factory, Research Space Station, Orbital Station (with Military 1) | - |
+| Construction 2 | ? | Construction 1 | - | more constructive options |
+| Construction 3 | ? | Construction 2 | - | more constructive options |
+| Fast Construction | ? | Construction 1 | - | faster construction |
 
 ## Military Tech Tree
 
 | Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
 |---|---|---|---|---|---|
 | Military 1 | ? | - | Scout, Flagship (rebuild), Ground Base | Drive 1, Phaser 1 | - |
-| Military 2 | ? | Military 1 | Cruiser | Tactical Computer 1 | - |
+| Military 2 | ? | Military 1 | Cruiser, Orbital Station (with Construction 1) | Tactical Computer 1 | - |
 | Military 3 | ? | Military 2 | Dreadnought | - | - |
 | Military 4 | ? | Military 3 | - | Tactical Computer 3, Tractor Beam, Carpet Bombs, Shield Projectors | - |
 | Advanced Weapons 1 | ? | Military 2 | - | Phaser 2, Photon Torpedoes 1 | - |
@@ -40,10 +46,13 @@
 
 ### Generic Tech
 
+* Long-Range Sensors (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Trade (also see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md))
 * Terraforming (also see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md))
+* Advanced Propulsion 1, 2 (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Wormholes (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
-* Culture
+* Culture 1, 2 (also see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md))
+* Construction 1, 2, 3 & fast (also see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md))
 
 ### Ship Tech / Customizations
 
