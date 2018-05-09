@@ -24,6 +24,10 @@ Bold = providing influence for government (amount)
   * **Research Facilities** (2)
   * **Research Space Stations** (1)
   * Terraforming Stations
+* Alien
+  * Friendly Alien Settlements
+  * Hostile Alien Bases
+  * Hostile Alien Spaceships
 
 ### Planets
 
@@ -54,6 +58,15 @@ Bold = providing influence for government (amount)
 * Established when population minimum reached and influence minimum reached
 * Can only be of a type that has influence majority (free choice for ties)
 * Can be overthrown by higher influence (but that will somehow throw back the planet)
+
+#### Population
+
+* Ground Base: 1
+* Colony Outpost: 3
+* Factory: 1
+* Trading Post: 1
+* Research Facility: 1
+* Friendly Alien Settlement: 3
 
 ### Ship Customizations
 
