@@ -35,6 +35,7 @@
 | Ground Base | Planet | ? | Reinforced Concrete |
 | Orbital Station | Planet | ? | Space-Grade Alloys, Electronics |
 | Shipyard | Planet or Construction Station | ? | Space-Grade Alloys, Electronics |
+| Ground Troops | Ground Base | ? | - |
 
 ### Diplomacy
 
@@ -60,6 +61,7 @@
 | Wormhole Gate | Planet or Construction Station | ? | Electronics |
 | Colony Outpost | Planet | ? | Rocks |
 | Construction Station | - | ? | Space-Grade Alloys, Electronics |
+| Construction Team | Planet or Construction Station | ? | - |
 
 ### Science
 

@@ -26,6 +26,7 @@
 | Ground Base | Military 1 | 3 | yes | - | 3 | - | - |
 | Orbital Station | Military 2, Engineering | 3 | yes | - | 1 | - | only one per hex |
 | Shipyard | Military 1 | 2 | yes | - | 1 | - | - |
+| Ground Troops | Ground Combat | 1 | no | - | - | - | 1 life support unit allows 1 ground troop (or construction team) to move with / through a ship |
 
 ### Diplomacy
 
@@ -48,6 +49,7 @@
 | Wormhole Gate | Wormholes | 1 | yes | - | - | - | matching gates (A, B, C, ...) enable movement as if adjacent |
 | Colony Outpost | - | 3 | yes | - | -  | 1 | - |
 | Construction Station | Engineering | 1 | yes | - | -  | - | - |
+| Construction Team | Engineering | 1 | no | - | - | - | 1 life support unit allows 1 construction team (or ground troop) to move with / through a ship |
 
 ### Science
 

@@ -171,6 +171,12 @@ All ships of a type always have the same components.
       └─┘
       ```
 
+    * Life Support Units
+
+      | Level | Blueprint Cost | Upgrade Cost | Building Cost |
+      |---|---|---|---|
+      | - | 0 | 0.5 | 1 |
+
     * Tactical Computer 1-2
 
       | Level | Blueprint Cost | Upgrade Cost | Building Cost |

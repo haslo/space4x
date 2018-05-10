@@ -2,7 +2,13 @@
 
 # :satellite: Tech Tree
 
-## Generic Tech Tree
+## Researching Technology
+
+TODO
+
+## Actual Tech Trees
+
+### Generic Tech Tree
 
 | Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
 |---|---|---|---|---|---|
@@ -16,8 +22,9 @@
 | Culture 1 | ? | - | Cultural Site, Government Building | - | - |
 | Culture 2 | ? | Culture 1 | Broadcast Network | - | - |
 | Ship Miniaturization | ? | - | - | Shield Generator 3 (with Defensive Armament 2), Phaser 4 & Photon Torpedoes 3 (with Advanced Weapons 2), Drive 4 (with Advanced Propulsion 2) | - |
+| Personnel Transport | ? | Engineering or Ground Combat | - | Life Support Units | - |
 
-## Construction Tech Tree
+### Construction Tech Tree
 
 also see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
 
@@ -31,7 +38,7 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 | Production workflows 2 | ? | Production Workflows 1 | - | - | 4x combination per factory and round |
 | Production workflows 3 | ? | Production Workflows 2 | - | - | unlimited combination per factory and round |
 
-## Military Tech Tree
+### Military Tech Tree
 
 | Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
 |---|---|---|---|---|---|
@@ -44,8 +51,9 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 | Defensive Armament 1 | ? | Military 2 | - | Shield Generator 1 | - |
 | Defensive Armament 2 | ? | Military 3 | - | Shield Generator 2 | - |
 | Spies | ? | Military 1 | Secret Agent, Counter Espionage Agent | - | - |
+| Ground Combat | ? | Military 1 | Ground Troops | - | - |
 
-## Tech Rules
+## Tech Special Rules
 
 ### Generic Tech
 
