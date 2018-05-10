@@ -4,4 +4,5 @@
 * :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md)
 * :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md)
 * :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
-* :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md)
+* :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md)
+* :boom: [Combat](https://github.com/haslo/space4x/blob/master/combat.md)

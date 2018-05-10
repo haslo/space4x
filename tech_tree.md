@@ -49,18 +49,18 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 
 ### Generic Tech
 
-* Long-Range Sensors (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
+* Long-Range Sensors (also see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Trade (also see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md))
 * Terraforming (also see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md))
-* Advanced Propulsion 1, 2 (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
-* Wormholes (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
+* Advanced Propulsion 1, 2 (also see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
+* Wormholes (also see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Culture 1, 2 (also see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md))
 
 ### Ship Tech / Customizations
 
-* Drive (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
+* Drive (also see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Cargo Holds (also see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md))
-* Long-Range Sensors (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
+* Long-Range Sensors (also see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 
 ### Military Tech / Customizations
 

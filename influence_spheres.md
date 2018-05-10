@@ -12,7 +12,7 @@
 ### References
 
 * see :satellite: [Tech Tree](https://github.com/haslo/space4x/blob/master/tech_tree.md) for tech requirements
-* see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) for ... movement
+* see :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md) for ... movement
 * for complex constructions, see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
 
 ### Military
