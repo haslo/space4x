@@ -9,6 +9,7 @@ All ships of a type always have the same components.
 * As long as no ships are built (or all are scuttled), pay component blueprint cost only for adding to ship
 * If ships are built, pay component blueprint cost plus upgrade cost (per ship, round up)
 * Whenever a new ship of the type is built, pay build cost of components as well as ship's build cost (tracker on board for cost)
+* A ship cannot fly without a Drive (exception: Scouts in Fighter Bays)
 
 ## Customizable Types
 
@@ -129,8 +130,8 @@ All ships of a type always have the same components.
 
     ```
             ┌─┐
-    ┌─┐ ┌─┐ ├─┤ ┌─┐
-    ├─┤ ├─┤ ├─┤ ├─┤
+        ┌─┐ ├─┤ ┌─┐
+    ┌─┐ ├─┤ ├─┤ ├─┤
     └─┘ └─┘ └─┘ └─┘
     ```
 
@@ -204,6 +205,12 @@ All ships of a type always have the same components.
       ├─┤
       └─┘
       ```
+
+    * Fighter Bays
+
+      | Level | Blueprint Cost | Upgrade Cost | Building Cost |
+      |---|---|---|---|
+      | - | 1 | 1 | 2 |
 
     * Tactical Computer 3
 

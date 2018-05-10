@@ -52,6 +52,7 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 | Defensive Armament 2 | ? | Military 3 | - | Shield Generator 2 | - |
 | Spies | ? | Military 1 | Secret Agent, Counter Espionage Agent | - | - |
 | Ground Combat | ? | Military 1 | Ground Troops | - | - |
+| Fighter Tech | ? | - | Fighter Bays | Each fighter bay allows a ship to carry 3 Scout-class ships. Ships carried this way do not require a Drive. |
 
 ## Tech Special Rules
 
