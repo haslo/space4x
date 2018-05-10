@@ -15,6 +15,7 @@
 | Wormholes | ? | - | Wormhole Gate | - | - |
 | Culture 1 | ? | - | Cultural Site, Government Building | - | - |
 | Culture 2 | ? | Culture 1 | Broadcast Network | - | - |
+| Ship Miniaturization | ? | - | - | Shield Generator 3 (with Defensive Armament 2), Phaser 4 & Photon Torpedoes 3 (with Advanced Weapons 2), Drive 4 (with Advanced Propulsion 2) | - |
 
 ## Construction Tech Tree
 
@@ -43,7 +44,6 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 | Defensive Armament 1 | ? | Military 2 | - | Shield Generator 1 | - |
 | Defensive Armament 2 | ? | Military 3 | - | Shield Generator 2 | - |
 | Spies | ? | Military 1 | Secret Agent, Counter Espionage Agent | - | - |
-| Arms Miniaturization | ? | - | - | Shield Generator 3 (with Defensive Armament 2), Phaser 4 & Photon Torpedoes 3 (with Advanced Weapons 2), Drive 4 (with Advanced Propulsion 2) | - |
 
 ## Tech Rules
 

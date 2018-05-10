@@ -24,7 +24,7 @@
 | Cruiser | Military 2 | 1 | yes | per layout | - | - | - |
 | Dreadnought | Military 3 | 2 | yes | per layout | - | - | - |
 | Ground Base | Military 1 | 3 | yes | - | 3 | - | - |
-| Orbital Station | Military 2, Engineering | 3 | yes | - | 1 | - | only one per planet |
+| Orbital Station | Military 2, Engineering | 3 | yes | - | 1 | - | only one per hex |
 | Shipyard | Military 1 | 2 | yes | - | 1 | - | - |
 
 ### Diplomacy
@@ -35,8 +35,8 @@
 | Secret Agent | Spies | 1 | no | special | - | - | - |
 | Counter Espionage Agent | Spies | 1 | no | special | - | - | - |
 | Cultural Site | Culture 1 | 3 | no | - | 1 | - | - |
-| Government Building | Culture 1 | 3 | yes | - | 2 | - | only one per planet |
-| Broadcast Network | Culture 2 | 3 | yes | - | 3 | - | only one per planet |
+| Government Building | Culture 1 | 3 | yes | - | 2 | - | only one per hex |
+| Broadcast Network | Culture 2 | 3 | yes | - | 3 | - | only one per hex |
 
 ### Economics
 
@@ -45,8 +45,9 @@
 | Factory | Engineering | 3 | yes | - | 2 | - | see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md) |
 | Trade Ship | Trade | 1 | yes | per layout | - | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
 | Trading Post | Trade | 3 | yes | - | 1 | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
-| Wormhole Gate | Wormholes | 1 | no | - | - | - | matching gates (A, B, C) enable movement as if adjacent |
+| Wormhole Gate | Wormholes | 1 | yes | - | - | - | matching gates (A, B, C, ...) enable movement as if adjacent |
 | Colony Outpost | - | 3 | yes | - | -  | 1 | - |
+| Construction Station | Engineering | 1 | yes | - | -  | - | - |
 
 ### Science
 
