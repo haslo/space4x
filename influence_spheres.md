@@ -24,35 +24,36 @@
 | Cruiser | Military 2 | 1 | yes | per layout | - | - | - |
 | Dreadnought | Military 3 | 2 | yes | per layout | - | - | - |
 | Ground Base | Military 1 | 3 | yes | - | 3 | - | - |
-| Orbital Station | Military 2, Construction 1 | 3 | yes | - | 1 | - | - |
+| Orbital Station | Military 2, Engineering | 3 | yes | - | 1 | - | only one per planet |
+| Shipyard | Military 1 | 2 | yes | - | 1 | - | - |
 
 ### Diplomacy
 
 | Name | Tech req. | Build Time | Complex Construction | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|---|---|
-| Embassy | - | 3 | no | - | 1 | - | only one per player and planet not under player's control |
-| Secret Agent | Spies | 1 | no | special | - | - | can only build in embassy and government building |
-| Counter Espionage Agent | Spies | 1 | no | special | - | - | can only build in embassy and government building |
+| Embassy | - | 3 | yes | - | 1 | - | only one per player and planet not under player's control |
+| Secret Agent | Spies | 1 | no | special | - | - | - |
+| Counter Espionage Agent | Spies | 1 | no | special | - | - | - |
 | Cultural Site | Culture 1 | 3 | no | - | 1 | - | - |
-| Government Building | Culture 1 | 3 | no | - | 2 | - | only one per planet |
+| Government Building | Culture 1 | 3 | yes | - | 2 | - | only one per planet |
 | Broadcast Network | Culture 2 | 3 | yes | - | 3 | - | only one per planet |
 
 ### Economics
 
 | Name | Tech req. | Build Time | Complex Construction | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|---|---|
-| Factory | Construction 1 | 3 | no | - | 2 | - | see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md) |
-| Trade Ship | Trade | 1 | no | per layout | - | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
-| Trading Post | Trade | 3 | no | - | 1 | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
-| Wormhole Gate | Wormholes | 1 | yes | - | - | - | matching gates (A, B, C) enable movement as if adjacent |
-| Colony Outpost | - | 3 | no | - | -  | 1 | - |
+| Factory | Engineering | 3 | yes | - | 2 | - | see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md) |
+| Trade Ship | Trade | 1 | yes | per layout | - | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
+| Trading Post | Trade | 3 | yes | - | 1 | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
+| Wormhole Gate | Wormholes | 1 | no | - | - | - | matching gates (A, B, C) enable movement as if adjacent |
+| Colony Outpost | - | 3 | yes | - | -  | 1 | - |
 
 ### Science
 
 | Name | Tech req. | Build Time | Complex Construction | Movement | Government | Science | Special Rules |
 |---|---|---|---|---|---|---|---|
-| Research Facility | - | 3 | no | - | 2 | 3 | - |
-| Research Space Station | Construction 1 | 3 | yes | - | 1 | 3 | - |
+| Research Facility | - | 3 | yes | - | 2 | 3 | - |
+| Research Space Station | Engineering | 3 | yes | - | 1 | 3 | - |
 | Terraforming Station | Terraforming | 3 | yes | - | - | - | terraforming, see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md) |
 
 ## Aliens
@@ -60,3 +61,4 @@
 * Friendly Alien Settlements
 * Hostile Alien Bases
 * Hostile Alien Spaceships
+* Friendly Alien Factories

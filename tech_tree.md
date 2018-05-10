@@ -9,8 +9,8 @@
 | Long-Range Sensors | ? | - | - | Long-Range Sensors | - |
 | Trade | ? | - | - | Trading Ship, Trading Post, Drive 1, Cargo Hold | - |
 | Improved Cargo Holds | ? | Trade | - | Smuggling Hold | Cargo holds double capacity |
-| Advanced Propulsion 1 | ? | Trade or Military 1 | Drive 2 | - |
-| Advanced Propulsion 2 | ? | Advanced Propulsion 1 | Drive 3 | - |
+| Advanced Propulsion 1 | ? | Trade or Military 1 | - | Drive 2 | - |
+| Advanced Propulsion 2 | ? | Advanced Propulsion 1 | - | Drive 3 | - |
 | Terraforming | ? | - | Terraforming Station | - | - |
 | Wormholes | ? | - | Wormhole Gate | - | - |
 | Culture 1 | ? | - | Cultural Site, Government Building | - | - |
@@ -22,18 +22,21 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 
 | Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
 |---|---|---|---|---|---|
-| Construction 1 | ? | - | Factory, Research Space Station, Orbital Station (with Military 1) | - |
-| Construction 2 | ? | Construction 1 | - | more constructive options |
-| Construction 3 | ? | Construction 2 | - | more constructive options |
-| Fast Construction | ? | Construction 1 | - | faster construction |
+| Engineering | ? | - | Factory, Research Space Station, Orbital Station (with Military 1) | - | - |
+| Faster Extraction 1 | ? | - | - | - | 2x extraction per factory and round |
+| Faster Extraction 2 | ? | Faster Extraction 1 | - | - | 4x extraction per factory and round |
+| Faster Extraction 3 | ? | Faster Extraction 2 | - | - | unlimited extraction per factory and round |
+| Production workflows 1 | ? | Faster Produtction 1 | - | - | 2x combination per factory and round |
+| Production workflows 2 | ? | Production Workflows 1 | - | - | 4x combination per factory and round |
+| Production workflows 3 | ? | Production Workflows 2 | - | - | unlimited combination per factory and round |
 
 ## Military Tech Tree
 
 | Tech | Cost | Requirements | Available Constructions | Available Customizations | Special Rules |
 |---|---|---|---|---|---|
 | Military 1 | ? | - | Scout, Flagship (rebuild), Ground Base | Drive 1, Phaser 1 | - |
-| Military 2 | ? | Military 1 | Cruiser, Orbital Station (with Construction 1) | Tactical Computer 1 | - |
-| Military 3 | ? | Military 2 | Dreadnought | - | - |
+| Military 2 | ? | Military 1 | Cruiser, Orbital Station (with Engineering) | Tactical Computer 1 | - |
+| Military 3 | ? | Military 2 | Dreadnought | Tactical Computer 2 | - |
 | Military 4 | ? | Military 3 | - | Tactical Computer 3, Tractor Beam, Carpet Bombs, Shield Projectors | - |
 | Advanced Weapons 1 | ? | Military 2 | - | Phaser 2, Photon Torpedoes 1 | - |
 | Advanced Weapons 2 | ? | Military 3 | - | Phaser 3, Photon Torpedoes 2 | - |
@@ -42,7 +45,7 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 | Spies | ? | Military 1 | Secret Agent, Counter Espionage Agent | - | - |
 | Arms Miniaturization | ? | - | - | Shield Generator 3 (with Defensive Armament 2), Phaser 4 & Photon Torpedoes 3 (with Advanced Weapons 2), Drive 4 (with Advanced Propulsion 2) | - |
 
-## Tech Rules
+## Tech Rules
 
 ### Generic Tech
 
@@ -52,7 +55,6 @@ also see :construction: [Construction](https://github.com/haslo/space4x/blob/mas
 * Advanced Propulsion 1, 2 (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Wormholes (also see :vertical_traffic_light: [Movement](https://github.com/haslo/space4x/blob/master/movement.md))
 * Culture 1, 2 (also see :earth_africa: [Planets](https://github.com/haslo/space4x/blob/master/planets.md))
-* Construction 1, 2, 3 & fast (also see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md))
 
 ### Ship Tech / Customizations
 
