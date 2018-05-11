@@ -14,7 +14,8 @@ TODO
 |---|---|---|---|---|---|
 | Long-Range Sensors | ? | - | - | Long-Range Sensors | - |
 | Trade | ? | - | - | Trading Ship, Trading Post, Drive 1, Cargo Hold | - |
-| Improved Cargo Holds | ? | Trade | - | Smuggling Hold | Cargo Holds can be activated twice per round |
+| Improved Cargo Holds 1 | ? | Trade | - | Smuggling Hold | Cargo Holds can be activated twice per round |
+| Improved Cargo Holds 2 | ? | Improved Cargo Holds 1 | - | - | Cargo Holds can be activated tree times per round, smuggling holds can be activated twice per round |
 | Advanced Propulsion 1 | ? | Trade or Military 1 | - | Drive 2 | - |
 | Advanced Propulsion 2 | ? | Advanced Propulsion 1 | - | Drive 3 | - |
 | Terraforming | ? | - | Terraforming Station | - | - |

@@ -11,10 +11,18 @@
 | Name | Government Type | Military Boost | Science Boost | Construction Boost | Special Rules |
 |---|---|---|---|---|---|
 | Dictatorship | any | 1 | -1 | 1 | Can be established at 2 below influence minimum, cannot be overthrown by same player |
-| Stratocracy | Military | 3 | 1 | 0 | No Smuggling to or from hex |
-| Democracy | Diplomacy | 1 | 2 | 1 | - |
+| Stratocracy | Military | 3 | 1 | 0 | No Smuggling by other players to or from hex |
+| Democracy | Diplomacy | 1 | 2 | 1 | Secret Agents have no effect |
 | Plutocracy | Economy | 0 | 1 | 3 | - |
 | Technocracy | Science | -1 | 4 | 0 | - |
+
+Boosts:
+
+| Boost Type | Rules |
+|---|---|
+| Military Boost | Free resources for buildling military constructions (including ships) |
+| Science Boost | Free resources for building science constructions or scientific research |
+| Construction Boost | Free resources for building economics constructions or using other player's factories or trade ships |
 
 ## Population
 

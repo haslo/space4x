@@ -8,7 +8,9 @@ All ships of a type always have the same components.
 
 * As long as no ships are built (or all are scuttled), pay component blueprint cost only for adding to ship
 * If ships are built, pay component blueprint cost plus upgrade cost (per ship, round up)
-* Whenever a new ship of the type is built, pay build cost of components as well as ship's build cost (tracker on board for cost)
+  * If the slot was previously occupied, also pay former component's blueprint cost
+* Whenever a new ship of the type is built, pay build cost of components as well as ship's build cost
+  * there should be a tracker on a board for cost per ship
 * A ship cannot fly without a Drive (exception: Scouts in Fighter Bays)
 
 ## Customizable Types
@@ -86,7 +88,7 @@ All ships of a type always have the same components.
 
   | Level | Blueprint Cost | Upgrade Cost | Building Cost |
   |---|---|---|---|
-  | - | 0 | 0.5 | 1 |
+  | - | 1 | 0.5 | 1 |
 
 * Smuggling Hold
 
