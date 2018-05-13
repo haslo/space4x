@@ -30,7 +30,7 @@
 
 ### Diplomacy
 
-| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Military) | Science | Special Rules |
+| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Diplomacy) | Science | Special Rules |
 |---|---|---|---|---|---|---|---|---|
 | Embassy | Civil Building | - | 3 | yes | - | 1 | - | only one per player and planet not under player's control |
 | Secret Agent | Secret Unit | Spies | 1 | no | special | - | - | - |
@@ -42,7 +42,7 @@
 
 ### Economics
 
-| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Military) | Science | Special Rules |
+| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Economics) | Science | Special Rules |
 |---|---|---|---|---|---|---|---|---|
 | Factory | Civil Building | Engineering | 3 | yes | - | 2 | - | see :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md) |
 | Trade Ship | Civil Unit | Trade | 1 | yes | per layout, plus special | - | - | see :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md) |
@@ -54,7 +54,7 @@
 
 ### Science
 
-| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Military) | Science | Special Rules |
+| Name | Type | Tech req. | Build Time | Complex Construction | Movement | Government (Science) | Science | Special Rules |
 |---|---|---|---|---|---|---|---|---|
 | Research Facility | Civil Building | - | 3 | yes | - | 2 | 3 | - |
 | Research Space Station | Civil Building | Engineering | 3 | yes | - | 1 | 3 | - |
