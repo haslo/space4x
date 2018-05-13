@@ -22,6 +22,13 @@
   * transports only usable when both players agree
 * foreign Trade Posts provide all naturally occurring materials for 3, with 1 going to the player, composites for 6, with 2 going to the player
 
+## Selling Goods
+
+All unsold goods can be sold to a Trade Station at the end of the round (only from own factories). Production and transporting costs as for production, sale prices equal to buy prices.
+
+* Example: composite good can be sold for 6, costs 3 to produce => 3 profit.
+* Example: naturally occurring good can be sold for 3, costs 1 to produce, needs to be transported because Trade Post is far away (1 goes to transporting player) => 1 profit
+
 ## Player Interactions
 
 ### Trading partners and consent

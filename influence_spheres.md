@@ -38,6 +38,7 @@
 | Cultural Site | Culture 1 | 3 | no | - | 1 | - | - |
 | Government Building | Culture 1 | 3 | yes | - | 2 | - | only one per hex |
 | Broadcast Network | Culture 2 | 3 | yes | - | 3 | - | only one per hex |
+| Diplomatic Vessel | Culture 1 | 1 | no | like current max Drive level | - | - | required for diplomatic annexion, see :speech_balloon: [Diplomacy](https://github.com/haslo/space4x/blob/master/diplomacy.md) |
 
 ### Economics
 

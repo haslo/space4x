@@ -7,4 +7,5 @@
 * :construction: [Construction](https://github.com/haslo/space4x/blob/master/construction.md)
 * :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md)
 * :boom: [Combat](https://github.com/haslo/space4x/blob/master/combat.md)
+* :speech_balloon: [Diplomacy](https://github.com/haslo/space4x/blob/master/diplomacy.md)
 * :love_letter: [Comparisons](https://github.com/haslo/space4x/blob/master/comparisons.md)

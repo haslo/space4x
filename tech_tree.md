@@ -16,12 +16,12 @@ TODO
 | Trade | ? | - | - | Trading Ship, Trading Post, Drive 1, Cargo Hold | - |
 | Improved Cargo Holds 1 | ? | Trade | - | Smuggling Hold | Cargo Holds can be activated twice per round |
 | Improved Cargo Holds 2 | ? | Improved Cargo Holds 1 | - | - | Cargo Holds can be activated tree times per round, smuggling holds can be activated twice per round |
-| Advanced Propulsion 1 | ? | Trade or Military 1 | - | Drive 2 | - |
-| Advanced Propulsion 2 | ? | Advanced Propulsion 1 | - | Drive 3 | - |
 | Terraforming | ? | - | Terraforming Station | - | - |
 | Wormholes | ? | - | Wormhole Gate | - | - |
-| Culture 1 | ? | - | Cultural Site, Government Building | - | - |
+| Culture 1 | ? | - | Cultural Site, Government Building, Diplomatic Vessel | Drive 1 | - |
 | Culture 2 | ? | Culture 1 | Broadcast Network | - | - |
+| Advanced Propulsion 1 | ? | Trade or Military 1 or Culture 1 | - | Drive 2 | - |
+| Advanced Propulsion 2 | ? | Advanced Propulsion 1 | - | Drive 3 | - |
 | Ship Miniaturization | ? | - | - | Shield Generator 3 (with Defensive Armament 2), Phaser 4 & Photon Torpedoes 3 (with Advanced Weapons 2), Drive 4 (with Advanced Propulsion 2) | - |
 | Personnel Transport | ? | Engineering or Ground Combat | - | Life Support Units | - |
 
