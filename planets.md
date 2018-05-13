@@ -13,7 +13,7 @@
 | Dictatorship | any | 1 | -1 | 1 | Can be established at 2 below influence minimum, cannot be overthrown by same player |
 | Stratocracy | Military | 3 | 1 | 0 | No Smuggling by other players to or from hex |
 | Democracy | Diplomacy | 1 | 2 | 1 | Secret Agents have no effect |
-| Plutocracy | Economy | 0 | 1 | 3 | - |
+| Plutocracy | Economy | 0 | 1 | 3 | Controls entire hex for trade (must give consent for goods transported through hex) |
 | Technocracy | Science | -1 | 4 | 0 | - |
 
 Boosts:
