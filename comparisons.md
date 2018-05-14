@@ -10,6 +10,7 @@
 * great implementation of fog of war
 * best space combat game I know, one of my favorite games ever
 * awesome solo mode
+* great flat tech tree with lots of variety
 * no trade
 * no resource management
 * no friendly encounters with other players
@@ -17,7 +18,7 @@
 ### Twilight Imperium
 
 * awesome space opera
-* interesting research tree
+* interesting research tree (though nested and deep with tons of prerequisites everywhere)
 * interesting races
 * abstracted trade
 * abstracted production
