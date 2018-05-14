@@ -27,6 +27,7 @@
 | Orbital Station | Military Building | Military 2, Engineering | 3 | yes | - | 1 | - | only one per hex |
 | Shipyard | Military Building | Military 1 | 2 | yes | - | 1 | - | - |
 | Ground Troops | Military Unit | Ground Combat | 1 | no | - | - | - | 1 life support unit allows 1 ground troop (or construction team) to move with / through a ship |
+| Planetary Defense System | Military Building | Military 1 | 2 | yes | - | 1 | - | - |
 
 ### Diplomacy
 

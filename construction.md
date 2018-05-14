@@ -6,13 +6,13 @@
 
 | Material | Type | Components | Early / Medium / Late | Indirect E/M/L | Total E/M/L |
 |---|---|---|---|---|---|
-| Rocks | Naturally Ocurring | - | 3 / 3 / 0 | 0 / 1 / 1 | 3 / 4 / 1 |
-| Metals | Naturally Ocurring | - | 1 / 1 / 0 | 5 / 7 / 7 | 6 / 8 / 7 |
+| Rocks | Naturally Ocurring | - | 3 / 3 / 0 | 0 / 2 / 1 | 3 / 5 / 1 |
+| Metals | Naturally Ocurring | - | 1 / 1 / 0 | 5 / 8 / 7 | 6 / 9 / 7 |
 | Semiconductors | Naturally Ocurring | - | 0 / 0 / 0 | 2 / 3 / 3 | 2 / 3 / 3 |
 | Vespene Gas | Naturally Ocurring | - | 0 / 1 / 0 | 3 / 3 / 3 | 3 / 4 / 3 |
 | Space-Grade Alloys | Composite | Metals, Vespene Gas | 3 / 3 / 3 | - | - |
 | Electronics | Composite | Metals, Semiconductors | 2 / 3 / 3 | - | - |
-| Reinforced Concrete | Composite | Metals, Rocks | 0 / 1 / 1 | - | - |
+| Reinforced Concrete | Composite | Metals, Rocks | 0 / 2 / 1 | - | - |
 
 ### Factory Types
 
@@ -40,6 +40,7 @@ See :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md)
 | Orbital Station | Planet | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Medium |
 | Shipyard | Planet or Construction Station | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Early |
 | Ground Troops | Ground Base | ? | - | - | Medium |
+| Planetary Defense System | Planet | ? | Reinforced Concrete | 6 / 4 / 3 | Medium |
 
 ### Diplomacy
 
