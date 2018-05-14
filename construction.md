@@ -4,18 +4,15 @@
 
 ## Materials
 
-### Naturally Ocurring
-
-* Rocks
-* Metals
-* Semiconductors
-* Vespene Gas
-
-### Composites
-
-* Space-Grade Alloys (Metals, Vespene Gas)
-* Electronics (Metals, Semiconductors)
-* Reinforced Concrete (Rocks, Metals)
+| Material | Type | Components | Early / Medium / Late | Indirect E/M/L | Total E/M/L |
+|---|---|---|---|---|---|
+| Rocks | Naturally Ocurring | - | 3 / 3 / 0 | 0 / 1 / 1 | 3 / 4 / 1 |
+| Metals | Naturally Ocurring | - | 1 / 1 / 0 | 5 / 7 / 7 | 6 / 8 / 7 |
+| Semiconductors | Naturally Ocurring | - | 0 / 0 / 0 | 2 / 3 / 3 | 2 / 3 / 3 |
+| Vespene Gas | Naturally Ocurring | - | 0 / 1 / 0 | 3 / 3 / 3 | 3 / 4 / 3 |
+| Space-Grade Alloys | Composite | Metals, Vespene Gas | 3 / 3 / 3 | - | - |
+| Electronics | Composite | Metals, Semiconductors | 2 / 3 / 3 | - | - |
+| Reinforced Concrete | Composite | Metals, Rocks | 0 / 1 / 1 | - | - |
 
 ### Factory Types
 
@@ -33,48 +30,48 @@ See :moneybag: [Trade](https://github.com/haslo/space4x/blob/master/trade.md)
 
 ### Military
 
-| Name | Construction Site | Cost | Required Materials | Materials Cost |
-|---|---|---|---|---|
-| Flagship | Shipyard | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 |
-| Scout | Planet or Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 |
-| Cruiser | Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 |
-| Dreadnought | Shipyard | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 |
-| Ground Base | Planet | ? | Reinforced Concrete | 6 / 4 / 3 |
-| Orbital Station | Planet | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 |
-| Shipyard | Planet or Construction Station | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 |
-| Ground Troops | Ground Base | ? | - | - |
+| Name | Construction Site | Cost | Required Materials | Materials Cost | Rough Game Phase |
+|---|---|---|---|---|---|
+| Flagship | Shipyard | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Late |
+| Scout | Planet or Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 | Early |
+| Cruiser | Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 | Medium |
+| Dreadnought | Shipyard | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Late |
+| Ground Base | Planet | ? | Reinforced Concrete | 6 / 4 / 3 | Medium |
+| Orbital Station | Planet | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Medium |
+| Shipyard | Planet or Construction Station | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Early |
+| Ground Troops | Ground Base | ? | - | - | Medium |
 
 ### Diplomacy
 
-| Name | Construction Site | Cost | Required Materials | Materials Cost |
-|---|---|---|---|---|
-| Embassy | Planet | ? | Rocks | 3 / 2 / 1 |
-| Secret Agent | Embassy, Government Building | ? | - | - |
-| Counter Espionage Agent | Embassy, Government Building | ? | - | - |
-| Cultural Site | Planet | ? | - | - |
-| Government Building | Planet | ? | Rocks, Metals | 6 / 4 / 2 |
-| Broadcast Network | Planet or Construction Station | ? | Rocks, Electronics | 9 / 6 / 4 |
-| Diplomatic Vessel | Planet or Embassy | ? | - | - |
+| Name | Construction Site | Cost | Required Materials | Materials Cost | Rough Game Phase |
+|---|---|---|---|---|---|
+| Embassy | Planet | ? | Rocks | 3 / 2 / 1 | Early |
+| Secret Agent | Embassy, Government Building | ? | - | - | Medium |
+| Counter Espionage Agent | Embassy, Government Building | ? | - | - | Medium |
+| Cultural Site | Planet | ? | - | - | Medium |
+| Government Building | Planet | ? | Rocks, Metals | 6 / 4 / 2 | Medium |
+| Broadcast Network | Planet or Construction Station | ? | Reinforced Concrete, Electronics | 12 / 8 / 6 | Late |
+| Diplomatic Vessel | Planet or Embassy | ? | - | - | Medium |
 
 * Spies only cost credits for training
 * Cultural Site can be anything from an underground cult to a historical monument, thus costs only credits
 
 ### Economics
 
-| Name | Construction Site | Cost | Required Materials | Materials Cost |
-|---|---|---|---|---|
-| Factory | Planet | ? | Rocks, Metals | 6 / 4 / 2 |
-| Trade Ship | Trading Post or Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 |
-| Trading Post | Planet or Construction Station | ? | Rocks | 3 / 2 / 1 |
-| Wormhole Gate | Planet or Construction Station | ? | Electronics | 6 / 4 / 3 |
-| Colony Outpost | Planet | ? | Rocks | 3 / 2 / 1 |
-| Construction Station | - | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 |
-| Construction Team | Planet or Construction Station | ? | - | - |
+| Name | Construction Site | Cost | Required Materials | Materials Cost | Rough Game Phase |
+|---|---|---|---|---|---|
+| Factory | Planet | ? | Rocks, Metals | 6 / 4 / 2 | Early |
+| Trade Ship | Trading Post or Shipyard | ? | Space-Grade Alloys | 6 / 4 / 3 | Early |
+| Trading Post | Planet or Construction Station | ? | Rocks | 3 / 2 / 1 | Early |
+| Wormhole Gate | Planet or Construction Station | ? | Electronics | 6 / 4 / 3 | Medium |
+| Colony Outpost | Planet | ? | Rocks | 3 / 2 / 1 | Medium |
+| Construction Station | - | ? | Space-Grade Alloys, Electronics | 12 / 8 / 6 | Medium |
+| Construction Team | Planet or Construction Station | ? | - | - | Medium |
 
 ### Science
 
-| Name | Construction Site | Cost | Required Materials | Materials Cost |
-|---|---|---|---|---|
-| Research Facility | Planet | ? | Electronics | Rocks | 3 / 2 / 1 |
-| Research Space Station | Planet or Construction Station | ? | Space-Grade Alloys | 6 / 4 / 3 |
-| Terraforming Station | Barren Planet | ? | Rocks, Vespene Gas | 6 / 4 / 2 |
+| Name | Construction Site | Cost | Required Materials | Materials Cost | Rough Game Phase |
+|---|---|---|---|---|---|
+| Research Facility | Planet | ? | Electronics | 3 / 2 / 1 | Early |
+| Research Space Station | Planet or Construction Station | ? | Space-Grade Alloys | 6 / 4 / 3 | Late |
+| Terraforming Station | Barren Planet | ? | Rocks, Vespene Gas | 6 / 4 / 2 | Medium |
