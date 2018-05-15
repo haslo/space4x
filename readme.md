@@ -8,4 +8,5 @@
 * :recycle: [Movement](https://github.com/haslo/space4x/blob/master/movement.md)
 * :boom: [Combat](https://github.com/haslo/space4x/blob/master/combat.md)
 * :speech_balloon: [Diplomacy](https://github.com/haslo/space4x/blob/master/diplomacy.md)
+* :trophy: [Victory Conditions](https://github.com/haslo/space4x/blob/master/victory_conditions.md)
 * :love_letter: [Comparisons](https://github.com/haslo/space4x/blob/master/comparisons.md)
