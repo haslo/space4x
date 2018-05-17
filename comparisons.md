@@ -34,7 +34,8 @@
 * annoying exploration (where you choose what is in space)
 * annoying research (where others can research away your wished-for tech)
 * annoying end-of-game procedure (pure VP maximization in the last turn)
-* odd space (with limited movement)
+* odd space (with limited movement possibilities)
+* these things annoy me so much because the theme and the good bits about the game are so great
 
 ### Empires of the Void
 

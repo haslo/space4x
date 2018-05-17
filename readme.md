@@ -1,3 +1,4 @@
+* :checkered_flag: [Design Goals](https://github.com/haslo/space4x/blob/master/design_goals.md)
 * :cyclone: [Round Structure](https://github.com/haslo/space4x/blob/master/round_structure.md)
 * :gem: [Influence Spheres](https://github.com/haslo/space4x/blob/master/influence_spheres.md)
 * :rocket: [Ship Customizations](https://github.com/haslo/space4x/blob/master/ship_customizations.md)
